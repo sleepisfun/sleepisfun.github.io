@@ -1,0 +1,113 @@
+body {
+  background-color:#000; 
+  margin: 20px,10px; 
+}
+
+img {
+	height:30%;
+	width:600px;
+}
+
+h1 {
+  background-image: url("IT background%20copy%202.png");
+  background-size: cover;
+  background-position: top center;
+  height: 700px;
+  width: 100%;
+  color: #FF3300;
+  font-size: 38px;
+  font-weight: 600;
+  text-align: center;
+  font-family: 'Orbitron';
+  position: fixed;
+  top: 6%;
+}
+
+.btn  {
+  font-family: 'Gelio Greek Diner';
+  font-size: 20px;
+  background: #ff0000;
+  border: 1px solid #ff0000;
+  border-radius: 3px;
+  color: #FFF;
+  display: inline-block;
+  margin: 10px 10px;
+  padding: 14px;
+  text-transform: uppercase;
+  text-decoration: none;
+   margin-left: 390px;
+   margin-top: 10px;
+}
+
+.btn:hover {
+  background: #FFF;
+  border: 1px solid #ff0000;
+  color: #ff0000;
+  animation: ease;
+}
+
+.btn1  {
+  font-family: 'Gelio Greek Diner';
+  font-size: 20px;
+  background: #ff0000;
+  border: 1px solid #ff0000;
+  border-radius: 3px;
+  color: #FFF;
+  display: inline-block;
+  margin: 10px 10px;
+  padding: 14px;
+  text-transform: uppercase;
+  text-decoration: none;
+   margin-left: 45px;
+object-position: center;
+}
+
+.btn1:hover {
+  background: #FFF;
+  border: 1px solid #ff0000;
+  color: #ff0000;
+  animation: ease;
+}
+
+.btn2  {
+  font-family: 'Gelio Greek Diner';
+  font-size: 20px;
+  background: #ff0000;
+  border: 1px solid #ff0000;
+  border-radius: 3px;
+  color: #FFF;
+  display: inline-block;
+  margin: 10px 10px;
+  padding: 14px;
+  text-transform: uppercase;
+  text-decoration: none;
+   margin-left: 45px;
+object-position: center;
+}
+
+.btn2:hover {
+  background: #FFF;
+  border: 1px solid #ff0000;
+  color: #ff0000;
+  animation: ease;
+}
+
+#square {
+  width: 3px;
+  height: 600px;
+  background: red;
+  margin-left: 83.9%;
+  position: fixed;
+}
+
+p {
+  color: red;
+  font-family: 'Orbitron';
+  margin-left: 86%;
+  margin-top: 5%;
+  line-height: 120%;
+  word-spacing: 5px;
+  border:3px dashed;
+  border-color: #FFF;
+  border-width: 10%;
+}

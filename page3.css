@@ -1,0 +1,128 @@
+body {
+background-color: #000;
+
+}
+
+h1 {
+  font-family: 'Orbitron';
+  color: #ff0000;
+  text-align: center;
+}
+
+.btn  {
+  font-family: 'Gelio Greek Diner';
+  font-size: 20px;
+  background: #ff0000;
+  border: 1px solid #ff0000;
+  border-radius: 3px;
+  color: #FFF;
+  display: inline-block;
+  margin: 10px 10px;
+  padding: 14px;
+  text-transform: uppercase;
+  text-decoration: none;
+   margin-left: 390px;
+   margin-top: 10px;
+}
+
+.btn:hover {
+  background: #FFF;
+  border: 1px solid #ff0000;
+  color: #ff0000;
+  animation: ease;
+}
+
+.btn1  {
+  font-family: 'Gelio Greek Diner';
+  font-size: 20px;
+  background: #ff0000;
+  border: 1px solid #ff0000;
+  border-radius: 3px;
+  color: #FFF;
+  display: inline-block;
+  margin: 10px 10px;
+  padding: 14px;
+  text-transform: uppercase;
+  text-decoration: none;
+   margin-left: 45px;
+object-position: center;
+}
+
+.btn1:hover {
+  background: #FFF;
+  border: 1px solid #ff0000;
+  color: #ff0000;
+  animation: ease;
+}
+
+.btn2  {
+  font-family: 'Gelio Greek Diner';
+  font-size: 20px;
+  background: #ff0000;
+  border: 1px solid #ff0000;
+  border-radius: 3px;
+  color: #FFF;
+  display: inline-block;
+  margin: 10px 10px;
+  padding: 14px;
+  text-transform: uppercase;
+  text-decoration: none;
+   margin-left: 45px;
+object-position: center;
+}
+
+.btn2:hover {
+  background: #FFF;
+  border: 1px solid #ff0000;
+  color: #ff0000;
+  animation: ease;
+}
+
+p {
+  color:white;
+  text-align: center;
+  font-family: 'Bradley Hand';
+  text-decoration: underline;
+  text-decoration-color:red;
+}
+
+#con {
+  color:white;
+  font-size: 20px;
+  margin-left: 5%;
+  font-family: 'Bradley Hand';
+  margin-right: 26%;
+}
+
+a {
+  color: #ff3333;
+}
+
+#author {
+  width: 100%;
+  height: 45%;
+  background: #ff3333;
+  z-index:20;
+}
+
+h3 {
+  color:black;
+  font-family: 'Orbitron';
+  font-size: 25px; 
+  text-align: center;
+}
+
+#about {
+  color:black;
+  font-family: 'Bradley Hand';
+font-size: 20px;
+margin-left: 5%;
+margin-right: 5%;
+}
+
+#thx {
+  color:white;
+  font-family: 'Bradley Hand';
+  font-size: 30px;
+  text-align: center;
+}
