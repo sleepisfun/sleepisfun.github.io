@@ -1,11 +1,11 @@
 body {
-background-color: #000;
+background-color: #FFF;
 
 }
 
 h1 {
   font-family: 'Orbitron';
-  color: #ff0000;
+  color: #000;
   text-align: center;
 }
 
@@ -15,7 +15,7 @@ h1 {
   background: #ff0000;
   border: 1px solid #ff0000;
   border-radius: 3px;
-  color: #FFF;
+  color: #000;
   display: inline-block;
   margin: 10px 10px;
   padding: 14px;
@@ -38,7 +38,7 @@ h1 {
   background: #ff0000;
   border: 1px solid #ff0000;
   border-radius: 3px;
-  color: #FFF;
+  color: #000;
   display: inline-block;
   margin: 10px 10px;
   padding: 14px;
@@ -61,7 +61,7 @@ object-position: center;
   background: #ff0000;
   border: 1px solid #ff0000;
   border-radius: 3px;
-  color: #FFF;
+  color: #000;
   display: inline-block;
   margin: 10px 10px;
   padding: 14px;
@@ -79,18 +79,18 @@ object-position: center;
 }
 
 p {
-  color:white;
+  color:#000;
   text-align: center;
-  font-family: 'Bradley Hand';
+  font-family: 'Chalkboard';
   text-decoration: underline;
   text-decoration-color:red;
 }
 
 #con {
-  color:white;
+  color:black;
   font-size: 20px;
   margin-left: 5%;
-  font-family: 'Bradley Hand';
+  font-family: 'Chalkboard';
   margin-right: 26%;
 }
 
@@ -114,7 +114,7 @@ h3 {
 
 #about {
   color:black;
-  font-family: 'Bradley Hand';
+  font-family: 'Chalkboard';
 font-size: 20px;
 margin-left: 5%;
 margin-right: 5%;
@@ -122,7 +122,7 @@ margin-right: 5%;
 
 #thx {
   color:white;
-  font-family: 'Bradley Hand';
+  font-family: 'Chalkboard';
   font-size: 30px;
   text-align: center;
 }
