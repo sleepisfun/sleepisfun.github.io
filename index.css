@@ -24,7 +24,7 @@ h1 {
 }
 
 .btn  {
-  font-family: 'Gelio Greek Diner';
+  font-family: 'Bradley Hand';
   font-size: 20px;
   background: #ff0000;
   border: 1px solid #ff0000;
@@ -35,8 +35,9 @@ h1 {
   padding: 14px;
   text-transform: uppercase;
   text-decoration: none;
-   margin-left: 390px;
-   margin-top: 10px;
+  position:center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .btn:hover {
@@ -47,7 +48,7 @@ h1 {
 }
 
 .btn1  {
-  font-family: 'Gelio Greek Diner';
+  font-family: 'Bradley Hand';
   font-size: 20px;
   background: #ff0000;
   border: 1px solid #ff0000;
@@ -58,8 +59,9 @@ h1 {
   padding: 14px;
   text-transform: uppercase;
   text-decoration: none;
-   margin-left: 45px;
+   margin-left: 310px;
 object-position: center;
+
 }
 
 .btn1:hover {
@@ -70,7 +72,7 @@ object-position: center;
 }
 
 .btn2  {
-  font-family: 'Gelio Greek Diner';
+  font-family: 'Bradley Hand';
   font-size: 20px;
   background: #ff0000;
   border: 1px solid #ff0000;
@@ -81,8 +83,31 @@ object-position: center;
   padding: 14px;
   text-transform: uppercase;
   text-decoration: none;
-   margin-left: 45px;
+   margin-left: 10px;
 object-position: center;
+}
+
+.effects  {
+  font-family: 'Bradley Hand';
+  font-size: 20px;
+  background: #ff0000;
+  border: 1px solid #ff0000;
+  border-radius: 3px;
+  color: #000;
+  display: inline-block;
+  margin: 10px 10px;
+  padding: 14px;
+  text-transform: uppercase;
+  text-decoration: none;
+   margin-left: 10px;
+   margin-top: 10px;
+}
+
+.effects:hover {
+  background: #FFF;
+  border: 1px solid #ff0000;
+  color: #ff0000;
+  animation: ease;
 }
 
 .btn2:hover {
