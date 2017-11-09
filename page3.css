@@ -11,7 +11,7 @@ h1 {
 
 .btn  {
   font-family: 'Bradley Hand';
-  font-size: 20px;
+  font-size: 100%;
   background: #ff0000;
   border: 1px solid #ff0000;
   border-radius: 3px;
@@ -35,7 +35,7 @@ h1 {
 
 .btn1  {
   font-family: 'Bradley Hand';
-  font-size: 20px;
+  font-size: 100%;
   background: #ff0000;
   border: 1px solid #ff0000;
   border-radius: 3px;
@@ -59,7 +59,7 @@ object-position: center;
 
 .btn2  {
   font-family: 'Bradley Hand';
-  font-size: 20px;
+  font-size: 100%;
   background: #ff0000;
   border: 1px solid #ff0000;
   border-radius: 3px;
@@ -75,7 +75,7 @@ object-position: center;
 
 .effects  {
   font-family: 'Bradley Hand';
-  font-size: 20px;
+  font-size: 100%;
   background: #ff0000;
   border: 1px solid #ff0000;
   border-radius: 3px;
